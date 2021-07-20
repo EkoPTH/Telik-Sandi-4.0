@@ -1,6 +1,6 @@
 <?php
 
-$x = 21600;  // 6 jam - 6*60*60
+/*$x = 21600;  // 6 jam - 6*60*60
 $current_time = time();
 $path = '/Users/USER/Downloads/'; //tempat download file cipher 
 $files = glob($path.'/*.txt*');
@@ -13,7 +13,7 @@ foreach($files as $file) {
     }
   }
 }
-
+*/
 ?>
 
 <html>
